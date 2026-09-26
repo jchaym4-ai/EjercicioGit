@@ -1,7 +1,7 @@
 package ejerciciogit;
 public class EjercicioGIT {
     public static void main(String[] args) {
-        System.out.println("DANIEL WECO");
+        System.out.println("Hola joel");
     }
     
 }
